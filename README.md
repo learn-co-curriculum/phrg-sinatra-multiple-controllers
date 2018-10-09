@@ -125,4 +125,7 @@ You would start your server in the same way you would any Sinatra application. B
 * [Blake Mizerany - Ruby Learning Interview](http://rubylearning.com/blog/2009/08/11/blake-mizerany-how-do-i-learn-and-master-sinatra/)
 * [Companies Using Sinatra](http://www.sinatrarb.com/wild.html)
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-multiple-controllers/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-multiple-controllers/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Sinatra Multiple Controllers</p>
